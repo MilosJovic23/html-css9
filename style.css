@@ -3,11 +3,9 @@
 	margin: 0;
 	padding: 0;
 }
-
 html {
 	scroll-behavior: smooth;
 }
-
 .slika {
 	background: url("./Slike/f1.jpg");
 	height: 100vh;
